@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NavidRouzbeh
-- 👀 I’m interested in front-end develop
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning react
 - 📫 How to reach me @navidrouzbeh on instagram and linkedin
 
